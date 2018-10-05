@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">James</string>
+    <string name="action_settings">Settings</string>
+    <item type="id" name="button_id"/>
+</resources>
